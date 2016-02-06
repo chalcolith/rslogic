@@ -1,4 +1,4 @@
-# rslogic
+# rslogic ![Build Status](https://travis-ci.org/kulibali/rslogic.svg?branch=master)
 
 **[rslogic](https://github.com/kulibali/rslogic)** is a logic programming framework
 for Rust inspired by [µKanren](https://github.com/jasonhemann/microKanren).
