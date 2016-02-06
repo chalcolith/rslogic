@@ -1,0 +1,6 @@
+[package]
+name = "rslogic"
+version = "0.1.0"
+authors = ["Gordon Tisher <gordon@balafon.net>"]
+
+[dependencies]
