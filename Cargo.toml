@@ -2,5 +2,11 @@
 name = "rslogic"
 version = "0.1.0"
 authors = ["Gordon Tisher <gordon@balafon.net>"]
+description = "rslogic is a logic programming framework for Rust inspired by µKanren."
+documentation = "https://kulibali.github.io/rslogic"
+homepage = "https://github.com/kulibali/rslogic"
+repository = "https://github.com/kulibali/rslogic"
+readme = "README.md"
+license = "MIT"
 
 [dependencies]

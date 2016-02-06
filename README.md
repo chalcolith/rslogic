@@ -3,6 +3,8 @@
 **[rslogic](https://github.com/kulibali/rslogic)** is a logic programming framework
 for Rust inspired by [µKanren](https://github.com/jasonhemann/microKanren).
 
+[API Documentation](https://kulibali.github.io/rslogic)
+
 A logical statement is built from **variables**, **states**, and **goals**.
 Create an initial state, then obtain some variables (and resulting state) from it.
 Construct a goal consisting of variable bindings, logical operations (AND, OR), or
